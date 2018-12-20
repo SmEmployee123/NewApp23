@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    TextView W11;
+    TextView Wh11;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
